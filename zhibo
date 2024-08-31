@@ -25,6 +25,15 @@ CCTV世界地理,https://tv.iill.top/live/sjdl
 广东体育,http://14.212.185.138:9901/tsfile/live/1002_1.m3u8
 游戏风云,http://qx.kover.eu.org:60008/udp/239.81.0.72:4056
 山东频道,#genre#
+山东齐鲁,http://1gr4dymt1goh1hqjzfaaunpa.ourdvsssvip.com/clivealone302.iqilu.com/291/5f56fdd095f3419a814daa8184756d4d/1724729079.ts?auth=4444de12980797ea3bda4179eb535f1c&timestamp=1725093021411&wsSession=e72107968f37df73047cbf05-172509302167955&wsIPSercert=d31273dc293a512f32d92ff0667fcdea&wsBindIP=1&wsApp=HLS&wsiphost=local
+山东综艺,http://1gr4dymt1goh1hqjzfaaunpa.ourdvsssvip.com/clivealone302.iqilu.com/291/20d5839139cb43d5af5fdabf8fe31973/1724729089.ts?auth=308a9d0f2bf342d2649d4b63fa34e77c&timestamp=1725093082989&wsSession=e72107968f37df73047cbf05-172509308326307&wsIPSercert=d31273dc293a512f32d92ff0667fcdea&wsBindIP=1&wsApp=HLS&wsiphost=local
+山东影视,http://1gr4dymt1goh1hqjzfaaunqy.ourdvsssvip.com/clivealone302.iqilu.com/291/8a7e733c9a7a4ffbae081023e6845ed8/1724902014.ts?auth=359d1a87da1a3a54b2469f6a1b0f7230&timestamp=1725093125553&wsSession=aded42082125816892376942-172509312584874&wsIPSercert=d31273dc293a512f32d92ff0667fcdea&wsBindIP=1&wsApp=HLS&wsiphost=local
+青岛-1,http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
+青岛-2,http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
+青岛-3,http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8
+青岛-4,http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
+青岛-5,http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8
+青岛-6,http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8
 济宁公共,http://lives.jnnews.tv/video/s10001-JNTV3/index.m3u8
 济宁综合,http://lives.jnnews.tv/video/s10001-JNTV-1/index.m3u8
 济宁生活,http://lives.jnnews.tv/video/s10001-JNTV2-2023/index.m3u8
