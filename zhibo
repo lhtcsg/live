@@ -1,28 +1,28 @@
 央视频道,#genre#
-CCTV-1综合,http://122.142.178.209:5000/hls/1/index.m3u8
-CCTV-2财经,http://210.22.75.86:9901/tsfile/live/0002_1.m3u8
-CCTV-3综艺,http://113.220.233.12:9999/tsfile/live/0019_1.m3u8
+CCTV-1综合,https://tvpull.careryun.com/tv/cctv1.m3u8
+CCTV-2财经,https://tvpull.careryun.com/tv/cctv2.m3u8
+CCTV-3综艺,http://tvpull.careryun.com/tv/cctv3.m3u8
 CCTV-4中文国际,http://120.76.248.139/live/bfgd/4200000063.m3u8
-CCTV-5体育,http://gslbserv.itv.cmvideo.cn/1000000005000265005/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265005&livemode=1&stbId=3
-CCTV-5+体育赛事,http://gslbserv.itv.cmvideo.cn/1000000005000265016/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265016&livemode=1&stbId=3
-CCTV-6电影,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
-CCTV-7军事·农业,http://gslbserv.itv.cmvideo.cn/1000000005000265007/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265007&livemode=1&stbId=3
-CCTV-8电视剧,http://gslbserv.itv.cmvideo.cn/1000000005000265008/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265008&livemode=1&stbId=3
-CCTV-9纪录,http://gslbserv.itv.cmvideo.cn/1000000005000265009/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265009&livemode=1&stbId=3
-CCTV-10科教,http://gslbserv.itv.cmvideo.cn/1000000005000265010/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265010&livemode=1&stbId=3
-CCTV-11戏曲,http://gslbserv.itv.cmvideo.cn/1000000005000265011/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265011&livemode=1&stbId=3
-CCTV-12社会与法,http://gslbserv.itv.cmvideo.cn/1000000005000265012/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265012&livemode=1&stbId=3
-CCTV-13新闻,http://gslbserv.itv.cmvideo.cn/5000000011000031108/1.m3u8?channel-id=bestzb&Contentid=5000000011000031108&livemode=1&stbId=3
-CCTV-14少儿,http://gslbserv.itv.cmvideo.cn/1000000005000265013/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265013&livemode=1&stbId=3
-CCTV-15音乐,http://gslbserv.itv.cmvideo.cn/1000000005000265014/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265014&livemode=1&stbId=3
-CCTV-16奥林匹克,http://gslbserv.itv.cmvideo.cn/5000000008000023254/1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
-CCTV-17农业农村,http://gslbserv.itv.cmvideo.cn/1000000005000265015/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265015&livemode=1&stbId=3
+CCTV-5体育,http://tvpull.careryun.com/tv/cctv5.m3u8
+CCTV-5+体育赛事,http://tvpull.careryun.com/tv/cctv5+.m3u8
+CCTV-6电影,http://tvpull.careryun.com/tv/cctv6.m3u8
+CCTV-7军事·农业,http://tvpull.careryun.com/tv/cctv7.m3u8
+CCTV-8电视剧,http://tvpull.careryun.com/tv/cctv8.m3u8
+CCTV-9纪录,http://tvpull.careryun.com/tv/cctv9.m3u8
+CCTV-10科教,http://tvpull.careryun.com/tv/cctv10.m3u8
+CCTV-11戏曲,http://tvpull.careryun.com/tv/cctv11.m3u8
+CCTV-12社会与法,http://tvpull.careryun.com/tv/cctv12.m3u8
+CCTV-13新闻,http://tvpull.careryun.com/tv/cctv13.m3u8
+CCTV-14少儿,http://tvpull.careryun.com/tv/cctv14.m3u8
+CCTV-15音乐,http://tvpull.careryun.com/tv/cctv15.m3u8
+CCTV-16奥林匹克,http://tvpull.careryun.com/tv/cctv16.m3u8
+CCTV-17农业农村,http://tvpull.careryun.com/tv/cctv17.m3u8
 CCTV风云音乐,https://tv.iill.top/live/fyyy
 CCTV风云足球,https://tv.iill.top/live/fyzq
 CCTV世界地理,https://tv.iill.top/live/sjdl
 地方卫视,#genre#
 五星体育,http://210.22.75.86:9901/tsfile/live/1010_1.m3u8
-广东体育,http://219.137.203.224:9999/tsfile/live/1003_1.m3u8
+广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
 游戏风云,http://home.isvvv.com:5050/itv/bestzb/5000000011000031114
 咪咕4K-1,http://gslbserv.itv.cmvideo.cn/3000000010000005180/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
 咪咕4K-2,http://gslbserv.itv.cmvideo.cn/3000000010000015686/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
@@ -105,27 +105,36 @@ EZTV6台,http://vvlive.eztv.vip:80/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-
 家庭剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
 国外体育频道,#genre#
 ESR,https://eyeonesports.com/ES2RA-628g.m3u8
-ESPN,http://143.244.60.30/ESPN/index.m3u8
+ESPN,http://41.205.93.154/ESPN/index.m3u8
+ESPN US,http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/19156/index.m3u8
+ESPN 2,http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/19155/index.m3u8
 ESPN+,http://143.244.60.30/ESPN/index.m3u8
-FOX Sports 1,http://livex.pop-app.live/s4n/poplive/ch339/playlist.m3u8
-CBS Sports Network,http://livex.pop-app.live/s4n/poplive/ch325/playlist.m3u8
-NFL Network,http://livex.pop-app.live/s4n/poplive/ch332/playlist.m3u8
+FOX Sports 1,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f173-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=46a3b8ff-5a4a-4952-bb4d-9461224acd54&serverSideAds=false&checkedby:iptvcat.com
+CBS Sports Network,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d&serverSideAds=false&checkedby:iptvcat.com
+NFL Network,http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
+NHL,https://nhl-firetv.amagi.tv/playlist.m3u8
 TUDN,https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
+Sky Sports Football,http://109.61.81.43:43756/711/video.m3u8?token=QUWJEnwmm2
+Sky Sports +,http://109.61.81.45:43756/713/video.m3u8?token=QUWJEnwmm2
+Sky Sports Mix,http://109.61.81.44:32855/3288/video.m3u8?token=QUWJEnwmm2
 英文频道,#genre#
 CBS NEWS,https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8
 BBC NEWS （日本）,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15&checkedby:iptvcat.com
 BBC NEWS,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
 Global news,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
 半岛电视台（英语）,https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
+National Geographic,http://109.61.81.44:32855/82/video.m3u8?token=QUWJEnwmm2
 NOW Rock,https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 Rock tv,https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 日本,#genre#
-日テレ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
+日テレ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 日テレ NEWS24,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-朝日电视台,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
-BS TBS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04&checkedby:iptvcat.com
-东京电视台,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
+TV Asahi,https://stream1.freetv.fun/58d0554bd604449e5e51815de31b24f1630722a58819a84b24559f961a8d2591.m3u8
+BS TBS,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS296&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+TBSテレビ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS296&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+东京电视台,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 NHK G (Tokyo),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
+富士电视台,http://cookies.elementfx.com/ublive/ublive.php?id=2203
 NHK G (Osaka),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
 NHK E,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
 MBSテレビ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01
