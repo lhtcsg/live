@@ -18,8 +18,8 @@ CCTV-15音乐,http://153.0.169.80:888/hls/15/index.m3u8
 CCTV-16奥林匹克,http://153.0.169.80:888/hls/16/index.m3u8
 CCTV-17农业农村,http://153.0.169.80:888/hls/17/index.m3u8
 CCTV风云音乐,https://tv.iill.top/live/fyyy
-CCTV风云足球,https://tv.iill.top/live/fyzq
-CCTV世界地理,https://tv.iill.top/live/sjdl
+CCTV风云足球,https://stream1.freetv.fun/77e1b159fede463dff10cdad7e78f7cee0a62319512d91469ed64f1da8559750.m3u8
+CCTV世界地理,https://stream1.freetv.fun/a684f7c7beba36a3e071321fd7975ddbebcbc38bc4738fbad3d7c13e14548717.m3u8
 地方卫视,#genre#
 五星体育,http://210.22.75.86:9901/tsfile/live/1010_1.m3u8
 广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
@@ -106,12 +106,15 @@ EZTV6台,http://vvlive.eztv.vip:80/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-
 家庭剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
 国外体育频道,#genre#
 ESR,https://eyeonesports.com/ES2RA-628g.m3u8
-ESPN,http://41.205.93.154/ESPN/index.m3u8
+ESPN 1,https://stream1.freetv.fun/39573a16a297e69c688f078d580f74ee522456067ace40a09f6b883159031630.ctv
 ESPN US,http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/19156/index.m3u8
-ESPN 2,http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/19155/index.m3u8
+ESPN 2,https://stream1.freetv.fun/bfadfbed1c5fea34196f749e619128f3b9130f4e3b0fe880450cedae1ee6ab19.ctv
+ESPN 3,https://stream1.freetv.fun/cc47a74f42de9f05296dcc6075ebd9d3d9924ac1742a9217c016cce49889bf4b.m3u8
 ESPN+,http://143.244.60.30/ESPN/index.m3u8
 FOX Sports 1,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f173-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=46a3b8ff-5a4a-4952-bb4d-9461224acd54&serverSideAds=false&checkedby:iptvcat.com
-CBS Sports Network,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d&serverSideAds=false&checkedby:iptvcat.com
+CBS Sports Network,https://stream1.freetv.fun/05bb22c843c73bb76ffff85fe123eb46bcdf10210d7ac5fe409be79eb6559f30.m3u8
+TNT Sports 1,https://stream1.freetv.fun/933f44e037e53a9cf86652f480db9e022aea0eb4b7d42f314ea3811b9b63b441.ctv
+TNT Sports 4,https://stream1.freetv.fun/92272538c9c28bd080a8ad28e1c133a13118a0627a7a6b2114fa4dd74f6d3b59.ctv
 NFL Network,http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
 NHL,https://nhl-firetv.amagi.tv/playlist.m3u8
 TUDN,https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
@@ -123,21 +126,23 @@ NBC Sports,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls
 CBS NEWS,https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8
 BBC NEWS,http://50.7.234.10:8278/bbc1_antik/playlist.m3u8?tid=MF9F5104188751041887&ct=19317&tsum=d9d161255fab7747b92a36b17e6fcf9a
 Global news,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
-半岛电视台（英语）,https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
-National Geographic,http://109.61.81.44:32855/82/video.m3u8?token=QUWJEnwmm2
+半岛电视台（英语）,https://stream1.freetv.fun/eb4901826f7e7e778e2321b85ca4437a494febfd3700b7f86ea14d03d34cc010.m3u8
+National Geographic,https://stream1.freetv.fun/cc8282bfe79d4db5b1521ec438efd42f2b20981cf90218bbd07f60dfd4ac031f.ctv
+Discovery Science,https://stream1.freetv.fun/182e8df634e57c701d7f75d831d0dfb3bcd807ca757340265a0248598ec4b9ff.ctv
+Discovery,https://stream1.freetv.fun/ac568fdd3b61ec151f5838f96071d2410eee23c29b47fd59cc566f9614dc8c65.ctv
 NOW Rock,https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
-Rock tv,https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
+Rock tv,https://stream1.freetv.fun/39c26f967de187cb1d2733a81b6855693cbcd1ddfd7ef87febb7f187101f5e23.m3u8
 日本,#genre#
-BS日テレ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS141&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+BS日テレ,https://stream1.freetv.fun/3180d32158ad0b89ecf4ed7684810fe499596196d16cb6ae1d0fc6ebe7ceee61.m3u8
 日テレ NEWS24,http://n24-cdn-live-x.ntv.co.jp/ch01/index_high.m3u8
-BS Asahi,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS151&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-BS TBS,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS296&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+TV Asahi,https://stream1.freetv.fun/d96391420ddb5738a8de9b2b4a58eb690d6509ff5e32ec1156edf708a205ba66.m3u8
+BS TBS,https://stream1.freetv.fun/4e065f57aae41c6d386d3e730d4a671e58c64537716efafbb16068d01ed00b8d.m3u8
 TBSテレビ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS296&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 东京电视台,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 NHK G (Tokyo),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
 富士电视台,https://fujitv4.mov3.co/hls/fujitv.m3u8
 NHK G (Osaka),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
-NHK E,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
-MBSテレビ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01
-Animax,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15&checkedby:iptvcat.com
+NHK E,https://stream1.freetv.fun/06ef3152ba57a52c58fe6c38122a497af160bad2fa9c2a84d216850005d624b7.m3u8
+MBS,https://stream1.freetv.fun/b00ece9df391831452a4cc47544e8b83e8208d69ca47d76a0790fe3858c2bb62.m3u8
+Animax,https://stream1.freetv.fun/cb3d9b94bb957dd926efd8ff83c11cb45f870504eadf21afae9ee369857d280a.m3u8
 MTV Japan,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18&checkedby:iptvcat.com
