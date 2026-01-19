@@ -3,7 +3,7 @@ CCTV-1综合,http://153.0.169.80:888/hls/1/index.m3u8
 CCTV-2财经,http://153.0.169.80:888/hls/2/index.m3u8
 CCTV-3综艺,http://121.30.137.26:8081/hls/3/index.m3u8
 CCTV-4中文国际,http://153.0.169.80:888/hls/4/index.m3u8
-CCTV-5体育,https://stream1.freetv.fun/3e640c2a32217597ce538a89a29078289126649905a25186efd4cd2667caa265.m3u8
+CCTV-5体育,http://183.250.156.180:9999/newlive/live/hls/5/live.m3u8
 CCTV-5+体育赛事,https://stream1.freetv.fun/409b8e6414e1d42c72d3c99197554e2c01f8747b0a0f1dfd51a6666ad748ddf3.m3u8
 CCTV-6电影,http://121.30.137.26:8081/hls/6/index.m3u8
 CCTV-7军事·农业,http://153.0.169.80:888/hls/7/index.m3u8
