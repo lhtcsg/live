@@ -1,11 +1,11 @@
 央视频道,#genre#
-CCTV-1综合,http://153.0.169.80:888/hls/1/index.m3u8
+CCTV-1综合,http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV-2财经,http://153.0.169.80:888/hls/2/index.m3u8
 CCTV-3综艺,http://121.30.137.26:8081/hls/3/index.m3u8
-CCTV-4中文国际,http://153.0.169.80:888/hls/4/index.m3u8
-CCTV-5体育,http://183.250.156.180:9999/newlive/live/hls/5/live.m3u8
-CCTV-5+体育赛事,https://stream1.freetv.fun/409b8e6414e1d42c72d3c99197554e2c01f8747b0a0f1dfd51a6666ad748ddf3.m3u8
-CCTV-6电影,http://121.30.137.26:8081/hls/6/index.m3u8
+CCTV-4中文国际,http://69.30.245.50/live/cctv4.m3u8
+CCTV-5体育,http://69.30.245.50/live/cctv5.m3u8
+CCTV-5+体育赛事,http://116.233.103.91:3566/641886773
+CCTV-6电影,http://69.30.245.50/live/cctv6.m3u8
 CCTV-7军事·农业,http://153.0.169.80:888/hls/7/index.m3u8
 CCTV-8电视剧,http://153.0.169.80:888/hls/8/index.m3u8
 CCTV-9纪录,http://153.0.169.80:888/hls/9/index.m3u8
@@ -133,6 +133,7 @@ Discovery,https://stream1.freetv.fun/ac568fdd3b61ec151f5838f96071d2410eee23c29b4
 NOW Rock,https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 NOW Rock (备用),https://stream1.freetv.fun/e4cef24d0be16d4699a9a14c0c90548532037f210b17871f11e5d080b68003af.m3u8
 Rock tv,https://stream1.freetv.fun/39c26f967de187cb1d2733a81b6855693cbcd1ddfd7ef87febb7f187101f5e23.m3u8
+Vevo Retro Rock,https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
 日本,#genre#
 BS日テレ,https://stream1.freetv.fun/3180d32158ad0b89ecf4ed7684810fe499596196d16cb6ae1d0fc6ebe7ceee61.m3u8
 日テレ NEWS24,http://n24-cdn-live-x.ntv.co.jp/ch01/index_high.m3u8
@@ -145,5 +146,6 @@ NHK G (Tokyo),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid
 NHK G (Osaka),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
 NHK E,https://stream1.freetv.fun/06ef3152ba57a52c58fe6c38122a497af160bad2fa9c2a84d216850005d624b7.m3u8
 MBS,https://stream1.freetv.fun/b00ece9df391831452a4cc47544e8b83e8208d69ca47d76a0790fe3858c2bb62.m3u8
-Animax,https://stream1.freetv.fun/cb3d9b94bb957dd926efd8ff83c11cb45f870504eadf21afae9ee369857d280a.m3u8
+Animax,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15&checkedby:iptvcat.com
 MTV Japan,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18&checkedby:iptvcat.com
+Music Japan,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06&checkedby:iptvcat.com
