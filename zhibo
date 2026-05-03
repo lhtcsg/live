@@ -1,22 +1,22 @@
 央视频道,#genre#
-CCTV-1综合,http://74.91.26.218:82/live/cctv1hd.m3u8
-CCTV-2财经,http://153.0.169.80:888/hls/2/index.m3u8
-CCTV-3综艺,http://121.30.137.26:8081/hls/3/index.m3u8
-CCTV-4中文国际,http://69.30.245.50/live/cctv4.m3u8
-CCTV-5体育,http://69.30.245.50/live/cctv5.m3u8
-CCTV-5+体育赛事,http://116.233.103.91:3566/641886773
-CCTV-6电影,http://69.30.245.50/live/cctv6.m3u8
-CCTV-7军事·农业,http://153.0.169.80:888/hls/7/index.m3u8
+CCTV-1综合,http://117.72.203.216:3000/608807420
+CCTV-2财经,http://117.72.203.216:3000/631780532
+CCTV-3综艺,http://117.72.203.216:3000/624878271
+CCTV-4中文国际,http://117.72.203.216:3000/608807419
+CCTV-5体育,http://117.72.203.216:3000/641886683
+CCTV-5+体育赛事,http://117.72.203.216:3000/641886773
+CCTV-6电影,http://117.72.203.216:3000/624878396
+CCTV-7军事·农业,http://107.150.60.122/live/cctv7hd.m3u8
 CCTV-8电视剧,http://153.0.169.80:888/hls/8/index.m3u8
-CCTV-9纪录,http://153.0.169.80:888/hls/9/index.m3u8
-CCTV-10科教,http://153.0.169.80:888/hls/10/index.m3u8
-CCTV-11戏曲,http://153.0.169.80:888/hls/11/index.m3u8
-CCTV-12社会与法,http://153.0.169.80:888/hls/12/index.m3u8
-CCTV-13新闻,http://153.0.169.80:888/hls/13/index.m3u8
-CCTV-14少儿,http://153.0.169.80:888/hls/14/index.m3u8
-CCTV-15音乐,http://153.0.169.80:888/hls/15/index.m3u8
-CCTV-16奥林匹克,http://153.0.169.80:888/hls/16/index.m3u8
-CCTV-17农业农村,http://153.0.169.80:888/hls/17/index.m3u8
+CCTV-9纪录,http://117.72.203.216:3000/673168140
+CCTV-10科教,http://117.72.203.216:3000/624878405
+CCTV-11戏曲,http://117.72.203.216:3000/667987558
+CCTV-12社会与法,http://107.150.60.122/live/cctv12hd.m3u8
+CCTV-13新闻,http://117.72.203.216:3000/608807423
+CCTV-14少儿,http://117.72.203.216:3000/624878440
+CCTV-15音乐,http://117.72.203.216:3000/673168223
+CCTV-16奥林匹克,http://107.150.60.122/live/cctv16hd.m3u8
+CCTV-17农业农村,http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
 CCTV风云音乐,https://tv.iill.top/live/fyyy
 CCTV风云足球,https://stream1.freetv.fun/77e1b159fede463dff10cdad7e78f7cee0a62319512d91469ed64f1da8559750.m3u8
 CCTV世界地理,https://stream1.freetv.fun/a684f7c7beba36a3e071321fd7975ddbebcbc38bc4738fbad3d7c13e14548717.m3u8
@@ -135,8 +135,9 @@ NOW Rock (备用),https://stream1.freetv.fun/e4cef24d0be16d4699a9a14c0c905485320
 Rock tv,https://stream1.freetv.fun/39c26f967de187cb1d2733a81b6855693cbcd1ddfd7ef87febb7f187101f5e23.m3u8
 Vevo Retro Rock,https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
 日本,#genre#
-BS日テレ,https://stream1.freetv.fun/3180d32158ad0b89ecf4ed7684810fe499596196d16cb6ae1d0fc6ebe7ceee61.m3u8
+BS日テレ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03&checkedby:iptvcat.com
 日テレ NEWS24,http://n24-cdn-live-x.ntv.co.jp/ch01/index_high.m3u8
+日テレ NEWS24（备用）https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
 TV Asahi,https://stream1.freetv.fun/d96391420ddb5738a8de9b2b4a58eb690d6509ff5e32ec1156edf708a205ba66.m3u8
 BS TBS,https://stream1.freetv.fun/4e065f57aae41c6d386d3e730d4a671e58c64537716efafbb16068d01ed00b8d.m3u8
 TBSテレビ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS296&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
